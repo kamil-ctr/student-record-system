@@ -1,0 +1,6 @@
+.DS_Store
+*.out
+*.exe
+*.o
+*.log
+tempCodeRunnerFile.cpp
